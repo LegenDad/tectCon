@@ -2,4 +2,4 @@
 testCon
 
 
-[R MarkDown Test](https://github.com/LegenDad/tectCon/blob/master/mdtest.md)
+[R MarkDown Test](tectCon/mdtest.md)
