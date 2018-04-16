@@ -13,7 +13,8 @@ testCon
 
 [adt_plot](adtracking_Plot.md)
 
-[ipynb file test](Pandas Exercise.ipynb)
+
+
 <div id="disqus_thread"></div>
 <script>
 
