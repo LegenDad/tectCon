@@ -9,7 +9,7 @@ testCon
 
 [04.12_plot](plot.md)
 
-[ttt4](ttt4.md)
+[ipynb test](Pandas Exercise.ipynb)
 
 [adt_plot](adtracking_Plot.md)
 
