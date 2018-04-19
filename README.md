@@ -5,17 +5,11 @@ testCon
 [R MarkDown Test](/mdtest.md)
 ...
 
-[link2](https://github.com/LegenDad/tectCon/blob/master/mdtest.md)
-
 [04.12_plot](plot.md)
 
-[ipynb test](Pandas%20Exercise.ipynb)
-
-[ipynb md change](PandasExercise.md)
-
-[ipynb py change](PandasExercise2.py)
-
 [adt_plot](adtracking_Plot.md)
+
+[adt_ggplot](adt_ggplot.md)
 
 
 
