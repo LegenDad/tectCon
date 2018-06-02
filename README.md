@@ -13,7 +13,7 @@ testCon
 
 [IRIS](IRIS.md)
 
-[avit](https://github.com/LegenDad/KaggleUXLog/blob/master/Avito/Avito_Code/test_md1.html)
+[avit](test_md1.html)
 
 
 
